@@ -1,0 +1,98 @@
+@media (max-width: 1800px) {
+	.price__can {
+		padding: 41px 38px 33px;
+	}
+}
+
+@media (max-width: 1650px) {
+	.price__can {
+		font-size: 20px;
+		padding: 41px 17px 33px;
+	}
+	.price__description {
+		padding: 0 25px 55px;
+	}
+}
+
+@media (max-width: 1200px) {
+	
+	/* Header */
+
+	h1 {
+		padding: 87px 0 15px;
+    font-size: 70px;
+	}
+
+	/* Editor */
+
+	.editor p {
+		padding: 0 50px;
+		text-align: center;
+	}
+
+	/* Account */
+
+	.about h2 {
+		font-size: 40px;
+		padding: 53px 0;
+	}
+	.account p {
+		padding: 0 80px;
+		text-align: center;
+	}
+	.offer-time__contetn {
+		padding-bottom: 60px;
+	}
+
+	/* Section Price */
+
+	.price__col {
+		padding-bottom: 61px;
+	}
+	.price__can {
+		font-size: 18px;
+    text-align: center;
+    padding: 30px 25px 30px;
+	}
+	.price__price {
+		font-size: 40px;
+		padding: 30px 0;
+	}
+	.price__iteration {
+		font-size: 16px;
+		padding-bottom: 56px;
+	}
+	.price__description {
+		font-size: 17px;
+		padding: 0 10px 40px;
+	}
+	.price__button {
+		padding-bottom: 30px;
+	}
+
+	/* Subscribe */
+
+	.subscribe {
+		padding: 40px 0;
+	}
+	.subscribe p {
+		font-size: 25px;
+		padding-right: 105px;
+	}
+	.subscribe__input {
+		height: 25px;
+	}
+	.subscribe__button {
+		height: 27px;
+	}
+
+	/* Section New */
+
+	.new h3 {
+		font-size: 23px;
+		padding: 41px 0;
+	}
+	.new__wrap {
+		padding-top: 33px;
+	}
+}
